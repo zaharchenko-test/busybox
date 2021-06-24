@@ -1,2 +1,1 @@
-# busybox-1.40.0 сборка в android ndk
-Взаимодействие с другими людьми
+# busybox-1.40.0 with android ndk
