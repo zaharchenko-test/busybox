@@ -1,1 +1,2 @@
-# busybox-1.40.0 build in termux gcc-10:'cctools-toolchain'
+# busybox-1.40.0 сборка в android ndk
+Взаимодействие с другими людьми
